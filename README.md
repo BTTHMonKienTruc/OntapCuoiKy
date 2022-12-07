@@ -6,4 +6,8 @@
 
 ![Không tồn tại](./AnhMinhChung/img_api.png)
 
+#### Singleton
 ![Không tồn tại](./AnhMinhChung/img_SingletonPattern.png)
+
+#### Factory Pattern
+![Không tồn tại](./AnhMinhChung/img_SingleFactoryPattern.png)
