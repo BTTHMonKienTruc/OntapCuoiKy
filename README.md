@@ -5,3 +5,5 @@
 ## Ảnh minh chứng
 
 ![Không tồn tại](./AnhMinhChung/img_api.png)
+
+![Không tồn tại](./AnhMinhChung/img_SingletonPattern.png)
