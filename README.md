@@ -11,3 +11,7 @@
 
 #### Factory Pattern
 ![Không tồn tại](./AnhMinhChung/img_SingleFactoryPattern.png)
+
+
+#### Abstract Factory Pattern
+![Không tồn tại](./AnhMinhChung/img_AbstractFactoryPattern.png)
