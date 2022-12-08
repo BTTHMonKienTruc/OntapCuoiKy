@@ -18,3 +18,9 @@
 
 #### State Pattern
 ![Không tồn tại](./AnhMinhChung/img_StatePattern.png)
+
+#### Composite Pattern
+![Không tồn tại](./AnhMinhChung/img2_composite_pattern_uml_diagram.jpg)
+![Không tồn tại](./AnhMinhChung/img_CompositePattern.png)
+
+
